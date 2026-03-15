@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r any /c/Users/jrhay/Mainstance/lib /c/Users/jrhay/Mainstance/components /c/Users/jrhay/Mainstance/app --include=*.ts --include=*.tsx)",
+      "Bash(grep -r \"stub\\\\|stubbed\\\\|placeholder\\\\|WIP\\\\|disabled\\\\|intentional\" /c/Users/jrhay/Mainstance --include=*.ts --include=*.tsx)"
+    ]
+  }
+}
